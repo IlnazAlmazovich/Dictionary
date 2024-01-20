@@ -1,0 +1,8 @@
+C:\Users\Пользователь\Desktop\Dictionary\Dictionary_2\bin\Debug\Dictionary_2.exe.config
+C:\Users\Пользователь\Desktop\Dictionary\Dictionary_2\bin\Debug\Dictionary_2.exe
+C:\Users\Пользователь\Desktop\Dictionary\Dictionary_2\bin\Debug\Dictionary_2.pdb
+C:\Users\Пользователь\Desktop\Dictionary\Dictionary_2\obj\Debug\Dictionary_2.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Dictionary\Dictionary_2\obj\Debug\Dictionary_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\Dictionary\Dictionary_2\obj\Debug\Dictionary_2.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Dictionary\Dictionary_2\obj\Debug\Dictionary_2.exe
+C:\Users\Пользователь\Desktop\Dictionary\Dictionary_2\obj\Debug\Dictionary_2.pdb
